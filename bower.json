@@ -16,9 +16,6 @@
     "css"
   ],
   "homepage": "https://github.com/tkliuxing/ace/tree/release",
-  "dependencies": {
-    "bootstrap": "v3.3.6"
-  },
   "ignore": [
     "**/.*",
     "node_modules",
