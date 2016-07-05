@@ -1,0 +1,26 @@
+{
+  "name": "tkliuxing-ace",
+  "description": "Responsive admin template based on Bootstrap",
+  "main": [
+    "dist/css/ace.min.css",
+    "dist/js/ace.min.js"
+  ],
+  "authors": [
+    "Mohsen Hosseini",
+    "Ronald White <ouyanghongyu@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "admin",
+    "responsive",
+    "css"
+  ],
+  "homepage": "https://github.com/tkliuxing/ace",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
