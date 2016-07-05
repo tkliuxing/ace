@@ -15,7 +15,7 @@
     "responsive",
     "css"
   ],
-  "homepage": "https://github.com/tkliuxing/ace",
+  "homepage": "https://github.com/tkliuxing/ace/tree/release",
   "ignore": [
     "**/.*",
     "node_modules",
