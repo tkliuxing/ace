@@ -2,8 +2,8 @@
   "name": "tkliuxing-ace",
   "description": "Responsive admin template based on Bootstrap",
   "main": [
-    "css/ace.min.css",
-    "js/ace.min.js"
+    "css/ace.css",
+    "js/ace.js"
   ],
   "authors": [
     "Mohsen Hosseini",
@@ -16,7 +16,7 @@
     "css"
   ],
   "homepage": "https://github.com/tkliuxing/ace/tree/release",
-  "version": "0.2",
+  "version": "v1.0.5",
   "ignore": [
     "**/.*",
     "node_modules",
