@@ -16,6 +16,7 @@
     "css"
   ],
   "homepage": "https://github.com/tkliuxing/ace/tree/release",
+  "version": "0.2",
   "ignore": [
     "**/.*",
     "node_modules",
